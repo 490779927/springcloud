@@ -1,0 +1,15 @@
+# Package Files #
+*.jar
+*.war
+*.ear
+*.iml
+target
+.idea
+*.md
+.classpath
+.project
+*.class
+.settings
+bin
+/sonar-project.properties
+/.sonar/
